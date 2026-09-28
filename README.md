@@ -1,0 +1,2 @@
+# premium-pelorus-sight-001-pelorus-bearing-sight-vane-b
+Struggling to document your pelorus bearing sight and vane builds without losing critical measurements and assembly details? This Notion template transforms scattered notes and sketches into a complete, organized build craft lab.  The Pelorus Bearing Sight &amp; Vane Build Craft Lab gives you a centralized workspace to track every component, bearing an
